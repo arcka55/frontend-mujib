@@ -1,0 +1,19 @@
+/* jumbotron */
+section#jumbotron {
+  background-color: #e9ecef;
+}
+
+/* about */
+section#about {
+  text-align: center;
+}
+
+/* projects */
+section#projects {
+  background-color: #e9ecef;
+}
+
+/* footer */
+footer {
+  background-color: #e9ecef;
+}
